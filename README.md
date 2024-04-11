@@ -1,13 +1,29 @@
 <h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I'm+Mariana+Timbó!&center=true&size=28">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=100&color=F70468&random=false&width=435&lines=Hey%2C+There!;I'm+Mariana+Timb%C3%B3." alt="Typing SVG" />
   </a>
 </h1>
 
-# hey, bem vindo ao meu perfil!
-- :bowtie: Eu sou @marianatimbo, graduanda em Tecnologia da Informação na UFRN.
+# Bem vindo ao meu perfil!
+- :bowtie: OLá, me chamo Mariana!
+- 🌱: Sou graduanda em Tecnologia da Informação na UFRN/Natal.
 - 💻: Atualemente estou estudando C++.
 
+<div align="center">
+  <a href="https://github.com/marianatimbo">
+    
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marianatimbo&show_icons=true&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marianatimbo&layout=compact&langs_count=7&theme=monokai"/>
+    
+</div>
+
+## Alguns dos meus conhecimentos:
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 <!--
 **marianatimbo/marianatimbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
