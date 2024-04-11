@@ -5,7 +5,7 @@
 </h1>
 
 # Bem vindo ao meu perfil!
-- :bowtie: OLá, me chamo Mariana!
+- :bowtie: Olá, me chamo Mariana!
 - 🌱: Sou graduanda em Tecnologia da Informação na UFRN/Natal.
 - 💻: Atualemente estou estudando C++.
 
@@ -13,7 +13,7 @@
   <a href="https://github.com/marianatimbo">
     
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marianatimbo&show_icons=true&theme=monokai"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marianatimbo&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="90em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marianatimbo&layout=compact&langs_count=7&theme=monokai"/>
     
 </div>
 
