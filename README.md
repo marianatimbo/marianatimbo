@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;I'm+Mariana+Timbó!&center=true&size=28">
+  </a>
+</h1>
+
+# hey, bem vindo ao meu perfil!
+- :bowtie: Eu sou @marianatimbo, graduanda em Tecnologia da Informação na UFRN.
+- 💻: Atualemente estou estudando C++.
+
 
 <!--
 **marianatimbo/marianatimbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
