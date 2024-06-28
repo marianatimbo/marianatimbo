@@ -7,7 +7,7 @@
 # Bem vindo ao meu perfil!
 - :bowtie: Olá, me chamo Mariana!
 - 🌱: Sou graduanda em Tecnologia da Informação na UFRN/Natal.
-- 💻: Atualemente estou estudando C++.
+- 💻: Atualmente estou estudando C++.
 
 <div align="center">
   <a href="https://github.com/marianatimbo">
